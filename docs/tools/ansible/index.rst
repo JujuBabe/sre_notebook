@@ -20,7 +20,6 @@ Ansible
 
 .. toctree::
     :maxdepth: 3
-    :numbered: 2
 
     environment
     introduce
