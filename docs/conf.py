@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
+project = "SRE Notebook"
 copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+author = "juju babe"
 
 
 # -- General configuration ---------------------------------------------------
